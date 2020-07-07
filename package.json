@@ -1,0 +1,18 @@
+{
+  "name": "hw-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node ./app2.js"
+  },
+  "author": "Palina Halausava",
+  "license": "ISC",
+  "dependencies": {
+    "flake-idgen": "^1.4.0",
+    "moment": "^2.27.0",
+    "uid": "^1.0.0",
+    "uuid": "^8.2.0",
+    "validator": "^13.1.1"
+  }
+}
