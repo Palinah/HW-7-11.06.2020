@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "flake-idgen": "^1.4.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "uid": "^1.0.0",
     "uuid": "^8.2.0",
     "validator": "^13.1.1"
